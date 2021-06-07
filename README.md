@@ -100,4 +100,3 @@ Structure if this repo:
 This code is based on
 
 - [MMAction2](https://github.com/open-mmlab/mmaction2)
-- [AlphAction](https://github.com/MVIG-SJTU/AlphAction)
